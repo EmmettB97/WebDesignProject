@@ -1,0 +1,29 @@
+
+body {
+    background-color: lightblue;
+    font-family: Open sans;
+
+  }
+  header {
+    background-color: rgb(110, 219, 201);
+  }
+  header nav {
+    background-color: rgb(111, 192, 179);
+
+  }
+  
+  h1 {
+    color: white;
+    text-align: center;
+  }
+  
+  p {
+    font-family: verdana;
+    font-size: 20px;
+  }
+  
+  footer {
+    background-color: aquamarine;
+    position: sticky; /* May need to change */
+    
+  }
